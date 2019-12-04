@@ -1,2 +1,5 @@
 # hello-world
-first repo
+
+Hi GitHub?
+
+Great program for version control and collaboration
